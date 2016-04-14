@@ -1,0 +1,26 @@
+{
+  "name": "angular-unit-testing",
+  "version": "1.0.0",
+  "description": "Start readme",
+  "main": "index.js",
+  "dependencies": {
+    "jasmine-core": "^2.4.1",
+    "karma": "^0.13.22",
+    "karma-chrome-launcher": "^0.2.3",
+    "karma-jasmine": "^0.3.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haopei/angular-unit-testing-karma-jasmine.git"
+  },
+  "author": "haopei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haopei/angular-unit-testing-karma-jasmine/issues"
+  },
+  "homepage": "https://github.com/haopei/angular-unit-testing-karma-jasmine#readme"
+}
